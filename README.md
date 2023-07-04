@@ -39,7 +39,6 @@ Ao seguir o CSS do BEM, você ganha os seguintes benefícios:
 - Baixo acoplamento entre elementos.
 - Fácil localização e compreensão do código CSS.
 
-</br>
 
 ## **Agrupamento lógico**
 
