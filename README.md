@@ -67,7 +67,7 @@ Este é o método que considero mais produtivo e que utilizo nos meus projetos.
 Aqui está um exemplo mias pratico e real do agrupamento:
 
 ```css
-.foo {
+.card__title{
   display:flex;
   flex-direction: column;
   justify-content: center;
