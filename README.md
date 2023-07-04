@@ -2,10 +2,9 @@
   <strong>CSS Standards</strong> 
 </h1>
 
-## **CSS do Bem**
+A organização do CSS é fundamental para manter seu código limpo, legível e fácil de dar manutenção. Um padrão popular de organização é o CSS do BEM (Block Element Modifier).Alem desse método vamos utilizar um agrupamento lógico.
 
-A organização do CSS é fundamental para manter seu código limpo, legível e fácil de dar manutenção. Um padrão popular de organização é o CSS do BEM (Block Element Modifier).
-</br>
+## **CSS do Bem**
 
 O CSS do BEM é uma metodologia de nomenclatura de classes que visa fornecer uma estrutura clara e consistente para o desenvolvimento de estilos. Ele divide o código CSS em três partes principais: Blocos (Blocks), Elementos (Elements) e Modificadores (Modifiers).
 </br>
@@ -14,13 +13,9 @@ O CSS do BEM é uma metodologia de nomenclatura de classes que visa fornecer uma
     
 Blocos (Blocks): Os blocos são componentes independentes e reutilizáveis do seu site ou aplicativo. Eles devem ser autossuficientes e não depender de outros elementos. Para nomear as classes de blocos, use um prefixo único relacionado ao componente, como .button, .card, .header.
 
-</br>
-
 ## **2- Elementos**
 
 Elementos (Elements): Os elementos são partes dos blocos e têm significado somente no contexto do bloco em que estão. Eles são denotados adicionando um sublinhado duplo (__) ao nome do bloco, seguido pelo nome do elemento. Por exemplo, .button__icon, .card__title, .header__logo.
-
-</br>
 
 ## **3- Modificadores** 
 
